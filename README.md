@@ -7,4 +7,5 @@ You are given three options to use during each 'turn' of combat:
 1. Attack
 2. Items
 3. End
+
 Please just watch the spelling as I didnt find a proper work around to the typing sensitivity yet.
